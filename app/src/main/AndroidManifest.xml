@@ -23,6 +23,10 @@
                 android:name=".NoteActivity"
                 android:parentActivityName=".MainActivity">
         </activity>
+        <meta-data
+                android:name="io.fabric.ApiKey"
+                android:value="a1d8426a63aeb461e9d81920abf52a9df79b02b0"
+        />
     </application>
 
 </manifest>
